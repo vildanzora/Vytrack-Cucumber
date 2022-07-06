@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.253">
+    <testcase classname="Users should see Export Grid dropdown, Refresh, Reset, and Grid Settings Buttons" name="TC001_Vytrack =&gt; Fleet =&gt; Vehicles" time="21.75">
+        <system-out>
+            <![CDATA[Given user enter valid "user152" and valid "UserUser123"....................passed
+When User can click Vehicles button under the Fleet Module..................passed
+When Export Grid dropdown is on the left of the page........................passed
+When User should be able to click refresh button............................passed
+When User should be able click reset button.................................passed
+When User should be able to click Grid Settings button......................passed
+Then Refresh button should be on the left side of Reset button..............passed
+Then Grid Settings should be on the right side of the Reset button..........passed
+Then Grid Setting button is on the right of the page........................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
